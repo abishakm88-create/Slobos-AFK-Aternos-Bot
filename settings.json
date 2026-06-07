@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bottttt",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "gameryt790.aternos.me:13028",
+    "ip": "gameryt790.aternos.me",
     "port": 13028,
     "version": "",
     "try-creative": false
